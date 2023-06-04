@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    ".continue": true,
+    ".devcontainer": true,
+    ".vscode": true
+  }
+}
