@@ -1,3 +1,4 @@
 {
-  "steps_on_startup": { "CreatePipelineRecipe": {} }
+  "steps_on_startup": { "CreatePipelineRecipe": {} },
+  "default_model": "gpt-4"
 }
