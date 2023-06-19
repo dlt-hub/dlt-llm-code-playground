@@ -1,5 +1,5 @@
 {
-  "steps_on_startup": { "DDtoBQRecipe": {} },
+  "steps_on_startup": { "CreatePipelineRecipe": {} },
   "default_model": "gpt-4",
-  "disallowed_steps": ["DefaultOnTracebackStep"]
+  "disallowed_steps": ["DefaultOnTracebackStep", "WelcomeStep"]
 }
